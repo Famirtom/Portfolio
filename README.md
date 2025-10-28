@@ -27,5 +27,5 @@ My projects focus on developing robust backend systems and exploring AI paradigm
 
 ### 🌐 Let's Connect!
 
-* **Portfolio:** [Link al tuo Portfolio] [cite: 5]
+* **Portfolio:** https://famirtom.github.io/Portfolio/
 * **LinkedIn:** https://www.linkedin.com/in/tommaso-rea-aa7751118/
