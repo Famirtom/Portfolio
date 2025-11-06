@@ -1,4 +1,4 @@
-# Hi, I'm Tommaso Rea 👋
+# Hi, I'm Tommaso Rea 
 
 I am a motivated Computer Science student currently pursuing my BSc at Middlesex University London.
 
@@ -16,7 +16,7 @@ I specialize in multiple programming languages and tools, including:
 * **Frameworks/Tools:** Node.js, Vue.js, Unity (basics), REST APIs.
 * **Cloud:** AWS (fundamentals).
 
-### 📂 Featured Work
+###  Featured Work
 
 My projects focus on developing robust backend systems and exploring AI paradigms:
 
@@ -25,7 +25,7 @@ My projects focus on developing robust backend systems and exploring AI paradigm
 
 ---
 
-### 🌐 Let's Connect!
+###  Let's Connect!
 
 * **Portfolio:** https://famirtom.github.io/Portfolio/
 * **LinkedIn:** https://www.linkedin.com/in/tommaso-rea-aa7751118/
