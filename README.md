@@ -1,9 +1,9 @@
 # Hi, I'm Tommaso Rea 
 
-I am a motivated Computer Science student currently pursuing my BSc at Middlesex University London.
+I'm a Computer Science student currently pursing my BSc at Middlesex University London, with a strong passion for software engineering, artificial intelligence and cloud technologies.
+Through both accademic study and hands-on project, I've built solid experience in software development, database design and IT systems management.
+I am driven by curiosity and creativity always eager to contribute to innovative, data-driven project that solve real-world problems. My goal is to apply my technical knowledge, analytical mindset and problem solving skills to build impactful solution.
 
-With academic and practical experience in software development, databases, and IT systems , I have a strong interest in **Software Engineering, Artificial Intelligence (AI), and Cloud Technologies.
-I am eager to contribute to innovative projects, applying my problem-solving and analytical skills.
 ---
 
 ###  Key Skills & Technologies
@@ -14,7 +14,7 @@ I specialize in multiple programming languages and tools, including:
 * **Databases:** PostgreSQL, MySQL, MongoDB.
 * **AI/Rule-Based Systems:** CLIPS, Prolog (basics).
 * **Frameworks/Tools:** Node.js, Vue.js, Unity (basics), REST APIs.
-* **Cloud:** AWS (fundamentals).
+* **Cloud:** AWS , Render.
 
 ###  Featured Work
 
