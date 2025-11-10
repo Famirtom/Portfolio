@@ -2,11 +2,11 @@
 
 I am a motivated Computer Science student currently pursuing my BSc at Middlesex University London.
 
-With academic and practical experience in software development, databases, and IT systems , I have a strong interest in **Software Engineering, Artificial Intelligence (AI), and Cloud Technologies**.
+With academic and practical experience in software development, databases, and IT systems , I have a strong interest in **Software Engineering, Artificial Intelligence (AI), and Cloud Technologies.
 I am eager to contribute to innovative projects, applying my problem-solving and analytical skills.
 ---
 
-### 🛠️ Key Skills & Technologies
+###  Key Skills & Technologies
 
 I specialize in multiple programming languages and tools, including:
 
