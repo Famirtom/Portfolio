@@ -1,31 +1,94 @@
-# Hi, I'm Tommaso Rea 
+# Tommaso Rea – Data Science Portfolio
 
-I'm a Computer Science student currently pursing my BSc at Middlesex University London, with a strong passion for software engineering, artificial intelligence and cloud technologies.
-Through both accademic study and hands-on project, I've built solid experience in software development, database design and IT systems management.
-I am driven by curiosity and creativity always eager to contribute to innovative, data-driven project that solve real-world problems. My goal is to apply my technical knowledge, analytical mindset and problem solving skills to build impactful solution.
+Final Year Data Science student at Middlesex University with a strong interest in data analysis, machine learning, and data-driven decision making.
 
----
+This portfolio contains selected projects demonstrating practical experience in:
 
-###  Key Skills & Technologies
-
-I specialize in multiple programming languages and tools, including:
-
-* **Languages:** Java, SQL, PHP, JavaScript, HTML/CSS, C#.
-* **Databases:** PostgreSQL, MySQL, MongoDB.
-* **AI/Rule-Based Systems:** CLIPS, Prolog (basics).
-* **Frameworks/Tools:** Node.js, Vue.js, Unity (basics), REST APIs.
-* **Cloud:** AWS , Render.
-
-###  Featured Work
-
-My projects focus on developing robust backend systems and exploring AI paradigms:
-
-* **Rule-Based Systems:** Demonstrating logical inference with tools like CLIPS (see my `clips-rule-system` repository).
-* **Data Management:** Building and querying efficient relational databases using PostgreSQL.
+* Data analysis and visualisation
+* Machine learning models
+* Data preprocessing and feature engineering
+* SQL databases and data management
 
 ---
 
-###  Let's Connect!
+## Projects
 
-* **Portfolio:** https://famirtom.github.io/Portfolio/
-* **LinkedIn:** https://www.linkedin.com/in/tommaso-rea-aa7751118/
+### Mental Health Profiling in the Tech Industry
+
+Final year research project analysing multi-year OSMI survey data (2017–2022).
+The project applies dimensionality reduction and clustering techniques to identify mental health attitude profiles in the technology workforce.
+
+Technologies used:
+
+* Python
+* Pandas
+* Scikit-learn
+* PCA
+* UMAP
+* K-Means
+
+---
+
+### Loan Default Prediction – Machine Learning
+
+Built a predictive model to identify loan default risk using financial and demographic attributes.
+The project includes data preprocessing, feature engineering, logistic regression modelling, and bias evaluation.
+
+Technologies used:
+
+* Python
+* Pandas
+* Scikit-learn
+* Logistic Regression
+* Data preprocessing
+
+---
+
+### Handwritten Digit Classifier
+
+Developed a handwritten digit recognition system from scratch in Java.
+Implemented K-Nearest Neighbour classification, confusion matrix evaluation, and hyperparameter optimisation using a Genetic Algorithm.
+
+Technologies used:
+
+* Java
+* Machine Learning algorithms
+* Neural Networks (MLP)
+* KNN
+
+---
+
+### Healthcare Database System
+
+Designed and implemented a relational database system for a GP surgery appointment management system.
+
+Technologies used:
+
+* SQL
+* Relational database design
+* Normalisation
+* Data modelling
+
+---
+
+## Skills
+
+**Programming**
+
+* Python
+* SQL
+* Java
+
+**Data Tools**
+
+* Pandas
+* Scikit-learn
+* Power BI
+* Excel
+
+**Concepts**
+
+* Machine Learning
+* Data Cleaning
+* Data Visualisation
+* Statistical Analysis
