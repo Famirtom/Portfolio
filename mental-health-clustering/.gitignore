@@ -1,0 +1,4 @@
+output/
+osmi_clean_2017_2022_encoded.csv
+.ipynb_checkpoints/
+__pycache__/
